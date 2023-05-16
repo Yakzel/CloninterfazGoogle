@@ -1,9 +1,9 @@
 # Cloncion  de  la interfaz de Google creado con HTML y CSS3 en el bootcamp de Tecnolochicas PRO
 
 ## Índice
-* *[1. Intro](#)*https://github.com/Yakzel/CloninterfazGoogle/blob/main/README.md#1-intro
-* *[2. Qué construí](#)*https://github.com/Yakzel/CloninterfazGoogle/blob/main/README.md#2-qu%C3%A9-constru%C3%AD
-* *[3. Objetivo del proyecto](#)*https://github.com/Yakzel/CloninterfazGoogle/blob/main/README.md#3-objetivo-del-proyecto
+* [1. Intro](#)
+* [2. Qué construí](#)
+* [3. Objetivo del proyecto](#)
 ****  
 
 ## 1. Intro
